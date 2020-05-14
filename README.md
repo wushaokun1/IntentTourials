@@ -12,11 +12,11 @@
 
 ###  布局代码
 
-[点此查看实验代码](https://github.com/wushaokun1/IntentTutorials/blob/master/app/src/main/res/layout/activity_intent.xml)</br>
+[点此查看实验代码](https://github.com/wushaokun1/IntentTourials/blob/master/app/src/main/res/layout/activity_intent.xml)</br>
 
 ###  java代码
 
-[点此查看实验代码](https://github.com/wushaokun1/IntentTutorials/blob/master/app/src/main/java/edu/fjnu/intenttourials/MainActivity.java
+[点此查看实验代码](https://github.com/wushaokun1/IntentTourials/blob/master/app/src/main/java/edu/fjnu/intenttourials/MainActivity.java
 )</br>
 
 ##Mybrowser部分：
